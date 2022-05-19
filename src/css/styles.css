@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Caladea&display=swap");
 @import 'reset.css';
-.footer .footer__column, .blog .blog__post .post__content .post__date, .under-hero .under-hero__content .wrapper h4, .hero a, .hero h4, header nav ul:first-child li, a {
+.footer .footer__column, .blog .blog__post .post__content .post__date, .under-hero .under-hero__content .wrapper h4, .hero a, .hero h4, header nav ul, a {
   font-family: "Montserrat", sans-serif;
   font-size: 10px;
   font-weight: 500;
